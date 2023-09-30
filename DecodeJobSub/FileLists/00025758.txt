@@ -1,0 +1,6 @@
+/sphenix/lustre01/sphnxpro/commissioning/MVTX/cosmics/cosmics_mvtx-flx0-00025758-0000.evt
+/sphenix/lustre01/sphnxpro/commissioning/MVTX/cosmics/cosmics_mvtx-flx1-00025758-0000.evt
+/sphenix/lustre01/sphnxpro/commissioning/MVTX/cosmics/cosmics_mvtx-flx2-00025758-0000.evt
+/sphenix/lustre01/sphnxpro/commissioning/MVTX/cosmics/cosmics_mvtx-flx3-00025758-0000.evt
+/sphenix/lustre01/sphnxpro/commissioning/MVTX/cosmics/cosmics_mvtx-flx4-00025758-0000.evt
+/sphenix/lustre01/sphnxpro/commissioning/MVTX/cosmics/cosmics_mvtx-flx5-00025758-0000.evt
